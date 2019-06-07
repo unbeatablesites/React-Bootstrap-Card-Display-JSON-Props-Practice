@@ -2,24 +2,28 @@
   {
     "id": 1,
     "name": "Frank",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
     "ocupation": "Software developer",
     "years": "11"
   },
   {
     "id": 2,
     "name": "Mike",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
     "ocupation": "Application developer",
     "years": "7"
   },
   {
     "id": 3,
     "name": "Natalie",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
     "ocupation": "Project Manager",
     "years": "4"
   },
   {
     "id": 4,
     "name": "Nicole",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
     "ocupation": "Software developer",
     "years": "5"
   }
