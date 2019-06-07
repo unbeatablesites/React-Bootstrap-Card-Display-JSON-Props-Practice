@@ -1,5 +1,5 @@
 import React from "react";
-import "./friends.json";
+import friends from "./friends.json";
 import Wrapper from "./components/Wrapper";
 import FriendCard from "./components/FriendCard";
 import Title from "./components/Title";
