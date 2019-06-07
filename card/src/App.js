@@ -9,20 +9,20 @@ const App = () => (
     <FriendCard
       name={friends[0].name}
       image={friends[0].image}
-      occupation={friends[0].ocupation}
-      location={friends[0].location}
+      ocupation={friends[0].ocupation}
+      years={friends[0].years}
     />
     <FriendCard
       name={friends[1].name}
       image={friends[1].image}
-      occupation={friends[1].ocupation}
-      location={friends[1].location}
+      ocupation={friends[1].ocupation}
+      years={friends[1].years}
     />
     <FriendCard
       name={friends[2].name}
       image={friends[2].image}
-      occupation={friends[2].ocupation}
-      location={friends[2].location}
+      ocupation={friends[2].ocupation}
+      years={friends[2].years}
     />
   </Wrapper>
 );
