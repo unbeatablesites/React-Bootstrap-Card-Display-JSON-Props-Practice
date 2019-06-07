@@ -24,6 +24,12 @@ const App = () => (
       ocupation={friends[2].ocupation}
       years={friends[2].years}
     />
+    <FriendCard
+      name={friends[3].name}
+      image={friends[3].image}
+      ocupation={friends[3].ocupation}
+      years={friends[3].years}
+    />
   </Wrapper>
 );
 

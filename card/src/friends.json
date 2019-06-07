@@ -2,28 +2,28 @@
   {
     "id": 1,
     "name": "Frank",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "image": "https://cdn.vox-cdn.com/thumbor/zK7OVYhzT_fhFcwbL5oiZOPpz0E=/0x0:799x599/250x188/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/59796411/Margaretta_Taylor_Lobby_of_the_Wieland_Pavilion_at_high_museum_chrisman_studios.6.jpg",
     "ocupation": "Software developer",
     "years": "11"
   },
   {
     "id": 2,
     "name": "Mike",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "image": "https://cdn.vox-cdn.com/thumbor/zK7OVYhzT_fhFcwbL5oiZOPpz0E=/0x0:799x599/250x188/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/59796411/Margaretta_Taylor_Lobby_of_the_Wieland_Pavilion_at_high_museum_chrisman_studios.6.jpg",
     "ocupation": "Application developer",
     "years": "7"
   },
   {
     "id": 3,
     "name": "Natalie",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "image": "https://cdn.vox-cdn.com/thumbor/zK7OVYhzT_fhFcwbL5oiZOPpz0E=/0x0:799x599/250x188/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/59796411/Margaretta_Taylor_Lobby_of_the_Wieland_Pavilion_at_high_museum_chrisman_studios.6.jpg",
     "ocupation": "Project Manager",
     "years": "4"
   },
   {
     "id": 4,
     "name": "Nicole",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "image": "https://cdn.vox-cdn.com/thumbor/zK7OVYhzT_fhFcwbL5oiZOPpz0E=/0x0:799x599/250x188/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/59796411/Margaretta_Taylor_Lobby_of_the_Wieland_Pavilion_at_high_museum_chrisman_studios.6.jpg",
     "ocupation": "Software developer",
     "years": "5"
   }
