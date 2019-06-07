@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import "./friends.json";
 const App = () => <div>Working!</div>;
 
 export default App;
