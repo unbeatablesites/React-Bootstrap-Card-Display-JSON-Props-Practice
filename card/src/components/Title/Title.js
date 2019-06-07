@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDom from "./Title";
+import "./Title";
 
 const Title = props => <div className="title"> {props.children}</div>;
 
